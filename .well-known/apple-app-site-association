@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["N7Q6TB5Z3W.live.staggered.app"],
+        "components": [
+          { "/": "/invite/*", "comment": "Friend invite links" },
+          { "/": "/join/*",   "comment": "Challenge join links" }
+        ]
+      }
+    ]
+  }
+}
